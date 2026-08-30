@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,video_quality
+1,Basic,199.0,SD
+2,Standard,499.0,HD
+3,Premium,799.0,4K
+4,Mobile Only,149.0,SD
