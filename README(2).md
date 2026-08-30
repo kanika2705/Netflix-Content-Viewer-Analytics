@@ -1,4 +1,4 @@
-# Netflix Analytics — MySQL & Power BI
+# Netflix Content & Viewer Analytics — MySQL & Power BI
 
 ## Project Overview
 
